@@ -20,6 +20,7 @@ Game threads tweaker for Android, suitable for mainstream games and some niche g
 
 ```
 Nekootan.kfkj
+com.dts.freefiremax
 age.of.civilizations2.jakowski.lukasz
 brownmonster.app.game.rushrally3
 com.AlfaBravo.Combat
